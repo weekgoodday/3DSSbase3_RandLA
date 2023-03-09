@@ -1,0 +1,902 @@
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 16:42:27.135187
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 16:45:33.614773
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 16:46:53.705483
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 16:52:15.104095
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 16:54:43.396470
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 16:57:00.918983
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 16:58:47.524315
+ ---- batch: 010 ----
+mean acc: 0.928653
+mean loss: 1.415526
+ ---- batch: 020 ----
+mean acc: 0.924743
+mean loss: 1.475270
+ ---- batch: 030 ----
+mean acc: 0.929305
+mean loss: 1.350396
+ ---- batch: 040 ----
+mean acc: 0.930997
+mean loss: 1.406708
+ ---- batch: 050 ----
+mean acc: 0.927940
+mean loss: 1.445023
+ ---- batch: 060 ----
+mean acc: 0.928671
+mean loss: 1.403509
+ ---- batch: 070 ----
+mean acc: 0.929876
+mean loss: 1.350016
+ ---- batch: 080 ----
+mean acc: 0.934036
+mean loss: 1.291215
+ ---- batch: 090 ----
+mean acc: 0.932333
+mean loss: 1.372525
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 19:49:38.467659
+ ---- batch: 010 ----
+mean acc: 0.929081
+mean loss: 1.435494
+ ---- batch: 020 ----
+mean acc: 0.931143
+mean loss: 1.360057
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+Let's use 2 GPUs!
+**** EPOCH 061 ****
+2023-03-07 19:51:48.543828
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-07 19:52:21.813337
+2023-03-07 20:09:43.979779
+ ---- batch: 010 ----
+mean acc: 0.168922
+mean loss: 22.069481
+ ---- batch: 020 ----
+mean acc: 0.364105
+mean loss: 17.156408
+ ---- batch: 030 ----
+mean acc: 0.392952
+mean loss: 14.475565
+ ---- batch: 040 ----
+mean acc: 0.396216
+mean loss: 13.337410
+ ---- batch: 050 ----
+mean acc: 0.420245
+mean loss: 13.585798
+ ---- batch: 060 ----
+mean acc: 0.441340
+mean loss: 13.080514
+ ---- batch: 070 ----
+mean acc: 0.435792
+mean loss: 12.854204
+ ---- batch: 080 ----
+mean acc: 0.459302
+mean loss: 11.906188
+ ---- batch: 090 ----
+mean acc: 0.489323
+mean loss: 11.255032
+ ---- batch: 100 ----
+mean acc: 0.458128
+mean loss: 11.685720
+ ---- batch: 110 ----
+mean acc: 0.490918
+mean loss: 11.814410
+ ---- batch: 120 ----
+mean acc: 0.488410
+mean loss: 10.725504
+ ---- batch: 130 ----
+mean acc: 0.520485
+mean loss: 10.443353
+ ---- batch: 140 ----
+mean acc: 0.512554
+mean loss: 10.420754
+ ---- batch: 150 ----
+mean acc: 0.531524
+mean loss: 10.236752
+ ---- batch: 160 ----
+mean acc: 0.538641
+mean loss: 9.695199
+ ---- batch: 170 ----
+mean acc: 0.550453
+mean loss: 10.074987
+ ---- batch: 180 ----
+mean acc: 0.557603
+mean loss: 9.895459
+ ---- batch: 190 ----
+mean acc: 0.559197
+mean loss: 9.359772
+ ---- batch: 200 ----
+mean acc: 0.565071
+mean loss: 9.623911
+ ---- batch: 210 ----
+mean acc: 0.583331
+mean loss: 9.353951
+ ---- batch: 220 ----
+mean acc: 0.578930
+mean loss: 9.134201
+ ---- batch: 230 ----
+mean acc: 0.597818
+mean loss: 9.322379
+ ---- batch: 240 ----
+mean acc: 0.581461
+mean loss: 9.470006
+ ---- batch: 250 ----
+mean acc: 0.634619
+mean loss: 8.728609
+ ---- batch: 260 ----
+mean acc: 0.630506
+mean loss: 8.385626
+ ---- batch: 270 ----
+mean acc: 0.649875
+mean loss: 8.253430
+ ---- batch: 280 ----
+mean acc: 0.628129
+mean loss: 8.154377
+ ---- batch: 290 ----
+mean acc: 0.664884
+mean loss: 8.382065
+ ---- batch: 300 ----
+mean acc: 0.654001
+mean loss: 8.111255
+ ---- batch: 310 ----
+mean acc: 0.663051
+mean loss: 7.603450
+ ---- batch: 320 ----
+mean acc: 0.669232
+mean loss: 7.717422
+ ---- batch: 330 ----
+mean acc: 0.667980
+mean loss: 8.168853
+ ---- batch: 340 ----
+mean acc: 0.670586
+mean loss: 7.976833
+ ---- batch: 350 ----
+mean acc: 0.679312
+mean loss: 7.636137
+ ---- batch: 360 ----
+mean acc: 0.707538
+mean loss: 7.536673
+ ---- batch: 370 ----
+mean acc: 0.697782
+mean loss: 7.395843
+ ---- batch: 380 ----
+mean acc: 0.696254
+mean loss: 7.209098
+ ---- batch: 390 ----
+mean acc: 0.708017
+mean loss: 7.400566
+ ---- batch: 400 ----
+mean acc: 0.704327
+mean loss: 6.583509
+ ---- batch: 410 ----
+mean acc: 0.720452
+mean loss: 7.357868
+ ---- batch: 420 ----
+mean acc: 0.706160
+mean loss: 7.354631
+ ---- batch: 430 ----
+mean acc: 0.716735
+mean loss: 7.335653
+ ---- batch: 440 ----
+mean acc: 0.717213
+mean loss: 6.546633
+ ---- batch: 450 ----
+mean acc: 0.726252
+mean loss: 6.600485
+ ---- batch: 460 ----
+mean acc: 0.719046
+mean loss: 7.090451
+ ---- batch: 470 ----
+mean acc: 0.709286
+mean loss: 7.202141
+ ---- batch: 480 ----
+mean acc: 0.701980
+mean loss: 6.647416
+ ---- batch: 490 ----
+mean acc: 0.707794
+mean loss: 7.238989
+ ---- batch: 500 ----
+mean acc: 0.736363
+mean loss: 6.622996
+ ---- batch: 510 ----
+mean acc: 0.712620
+mean loss: 7.054707
+ ---- batch: 520 ----
+mean acc: 0.738363
+mean loss: 6.707597
+ ---- batch: 530 ----
+mean acc: 0.746482
+mean loss: 6.043947
+ ---- batch: 540 ----
+mean acc: 0.743440
+mean loss: 6.441802
+ ---- batch: 550 ----
+mean acc: 0.744339
+mean loss: 6.715935
+ ---- batch: 560 ----
+mean acc: 0.748769
+mean loss: 6.082063
+ ---- batch: 570 ----
+mean acc: 0.762037
+mean loss: 6.129887
+ ---- batch: 580 ----
+mean acc: 0.743722
+mean loss: 6.324727
+ ---- batch: 590 ----
+mean acc: 0.749903
+mean loss: 6.078306
+ ---- batch: 600 ----
+mean acc: 0.752689
+mean loss: 6.364628
+ ---- batch: 610 ----
+mean acc: 0.740814
+mean loss: 6.440325
+ ---- batch: 620 ----
+mean acc: 0.744554
+mean loss: 5.988054
+ ---- batch: 630 ----
+mean acc: 0.763125
+mean loss: 5.802744
+ ---- batch: 640 ----
+mean acc: 0.752060
+mean loss: 5.863559
+ ---- batch: 650 ----
+mean acc: 0.750839
+mean loss: 6.654622
+ ---- batch: 660 ----
+mean acc: 0.750191
+mean loss: 6.022532
+ ---- batch: 670 ----
+mean acc: 0.760408
+mean loss: 5.955014
+ ---- batch: 680 ----
+mean acc: 0.767009
+mean loss: 5.976500
+ ---- batch: 690 ----
+mean acc: 0.759017
+mean loss: 6.464574
+ ---- batch: 700 ----
+mean acc: 0.757359
+mean loss: 5.804487
+ ---- batch: 710 ----
+mean acc: 0.760656
+mean loss: 6.289899
+ ---- batch: 720 ----
+mean acc: 0.752019
+mean loss: 5.883866
+ ---- batch: 730 ----
+mean acc: 0.756911
+mean loss: 6.199014
+ ---- batch: 740 ----
+mean acc: 0.768092
+mean loss: 6.281976
+ ---- batch: 750 ----
+mean acc: 0.749071
+mean loss: 6.236804
+ ---- batch: 760 ----
+mean acc: 0.768163
+mean loss: 6.168966
+ ---- batch: 770 ----
+mean acc: 0.755775
+mean loss: 5.916766
+ ---- batch: 780 ----
+mean acc: 0.779170
+mean loss: 5.848196
+ ---- batch: 790 ----
+mean acc: 0.768767
+mean loss: 5.650897
+ ---- batch: 800 ----
+mean acc: 0.772368
+mean loss: 5.699467
+ ---- batch: 810 ----
+mean acc: 0.761178
+mean loss: 5.969383
+ ---- batch: 820 ----
+mean acc: 0.766420
+mean loss: 5.857606
+ ---- batch: 830 ----
+mean acc: 0.774814
+mean loss: 5.743765
+ ---- batch: 840 ----
+mean acc: 0.771942
+mean loss: 5.734607
+ ---- batch: 850 ----
+mean acc: 0.774321
+mean loss: 5.585807
+ ---- batch: 860 ----
+mean acc: 0.782390
+mean loss: 5.140613
+ ---- batch: 870 ----
+mean acc: 0.785006
+mean loss: 5.533503
+ ---- batch: 880 ----
+mean acc: 0.778973
+mean loss: 5.307244
+ ---- batch: 890 ----
+mean acc: 0.791827
+mean loss: 5.584235
+ ---- batch: 900 ----
+mean acc: 0.774799
+mean loss: 5.539030
+ ---- batch: 910 ----
+mean acc: 0.793507
+mean loss: 5.549692
+ ---- batch: 920 ----
+mean acc: 0.790300
+mean loss: 5.279129
+ ---- batch: 930 ----
+mean acc: 0.793669
+mean loss: 4.864243
+ ---- batch: 940 ----
+mean acc: 0.787857
+mean loss: 5.241301
+ ---- batch: 950 ----
+mean acc: 0.765869
+mean loss: 5.717069
+mean IoU:23.8
+IoU:56.09  0.01  0.04  6.33  7.28  0.03  0.16  0.00 71.30 18.89 49.99  8.67 56.70 32.61 51.50 27.29 45.94 18.76  0.38 
+**** EVAL EPOCH 000 START****
+ ---- batch: 010 ----
+ ---- batch: 020 ----
+ ---- batch: 030 ----
+ ---- batch: 040 ----
+ ---- batch: 050 ----
+ ---- batch: 060 ----
+ ---- batch: 070 ----
+ ---- batch: 080 ----
+ ---- batch: 090 ----
+ ---- batch: 100 ----
+ ---- batch: 110 ----
+ ---- batch: 120 ----
+ ---- batch: 130 ----
+ ---- batch: 140 ----
+ ---- batch: 150 ----
+ ---- batch: 160 ----
+ ---- batch: 170 ----
+ ---- batch: 180 ----
+ ---- batch: 190 ----
+ ---- batch: 200 ----
+eval mean acc: 0.798513
+eval mean loss: 5.691773
+mean IoU:30.8
+IoU:81.61  0.00  0.12 12.10  5.21  0.00  0.00  0.00 79.34 22.98 61.36  0.00 75.22 25.37 70.48 41.49 67.46 40.35  1.48 
+**** EVAL EPOCH 000 END****
+**** EPOCH 001 ****
+2023-03-07 20:09:43.979779
+ ---- batch: 010 ----
+mean acc: 0.775071
+mean loss: 5.681784
+ ---- batch: 020 ----
+mean acc: 0.770037
+mean loss: 5.239929
+ ---- batch: 030 ----
+mean acc: 0.777011
+mean loss: 5.505056
+ ---- batch: 040 ----
+mean acc: 0.777138
+mean loss: 5.252111
+ ---- batch: 050 ----
+mean acc: 0.788744
+mean loss: 5.108052
+ ---- batch: 060 ----
+mean acc: 0.778548
+mean loss: 5.319448
+ ---- batch: 070 ----
+mean acc: 0.798945
+mean loss: 4.848074
+ ---- batch: 080 ----
+mean acc: 0.795953
+mean loss: 4.848458
+ ---- batch: 090 ----
+mean acc: 0.810100
+mean loss: 4.608213
+ ---- batch: 100 ----
+mean acc: 0.809817
+mean loss: 4.482144
+ ---- batch: 110 ----
+mean acc: 0.792430
+mean loss: 5.817463
+ ---- batch: 120 ----
+mean acc: 0.781046
+mean loss: 5.573173
+ ---- batch: 130 ----
+mean acc: 0.783422
+mean loss: 5.036340
+ ---- batch: 140 ----
+mean acc: 0.793064
+mean loss: 5.171792
+ ---- batch: 150 ----
+mean acc: 0.797892
+mean loss: 5.026613
+ ---- batch: 160 ----
+mean acc: 0.791601
+mean loss: 4.868014
+ ---- batch: 170 ----
+mean acc: 0.809552
+mean loss: 4.703805
+ ---- batch: 180 ----
+mean acc: 0.789590
+mean loss: 4.931453
+ ---- batch: 190 ----
+mean acc: 0.801553
+mean loss: 4.949090
+ ---- batch: 200 ----
+mean acc: 0.804203
+mean loss: 4.807556
+ ---- batch: 210 ----
+mean acc: 0.799558
+mean loss: 5.099691
+ ---- batch: 220 ----
+mean acc: 0.801451
+mean loss: 5.143285
+ ---- batch: 230 ----
+mean acc: 0.800739
+mean loss: 5.014756
+ ---- batch: 240 ----
+mean acc: 0.804157
+mean loss: 4.677408
+ ---- batch: 250 ----
+mean acc: 0.796381
+mean loss: 5.094915
+ ---- batch: 260 ----
+mean acc: 0.797193
+mean loss: 4.771354
+ ---- batch: 270 ----
+mean acc: 0.798270
+mean loss: 5.226857
+ ---- batch: 280 ----
+mean acc: 0.792876
+mean loss: 5.028614
+ ---- batch: 290 ----
+mean acc: 0.795143
+mean loss: 5.076579
+ ---- batch: 300 ----
+mean acc: 0.800837
+mean loss: 4.922236
+ ---- batch: 310 ----
+mean acc: 0.806686
+mean loss: 4.915977
+ ---- batch: 320 ----
+mean acc: 0.804731
+mean loss: 4.558622
+ ---- batch: 330 ----
+mean acc: 0.814160
+mean loss: 4.646230
+ ---- batch: 340 ----
+mean acc: 0.799768
+mean loss: 4.718130
+ ---- batch: 350 ----
+mean acc: 0.808951
+mean loss: 4.911268
+ ---- batch: 360 ----
+mean acc: 0.817003
+mean loss: 4.503353
+ ---- batch: 370 ----
+mean acc: 0.793656
+mean loss: 5.207454
+ ---- batch: 380 ----
+mean acc: 0.793588
+mean loss: 5.064101
+ ---- batch: 390 ----
+mean acc: 0.802959
+mean loss: 5.171371
+ ---- batch: 400 ----
+mean acc: 0.799807
+mean loss: 5.003420
+ ---- batch: 410 ----
+mean acc: 0.799988
+mean loss: 4.933221
+ ---- batch: 420 ----
+mean acc: 0.791931
+mean loss: 5.083481
+ ---- batch: 430 ----
+mean acc: 0.809169
+mean loss: 4.779850
+ ---- batch: 440 ----
+mean acc: 0.797520
+mean loss: 5.035780
+ ---- batch: 450 ----
+mean acc: 0.795870
+mean loss: 4.666262
+ ---- batch: 460 ----
+mean acc: 0.815303
+mean loss: 4.828178
+ ---- batch: 470 ----
+mean acc: 0.793858
+mean loss: 4.904859
+ ---- batch: 480 ----
+mean acc: 0.818529
+mean loss: 4.444592
+ ---- batch: 490 ----
+mean acc: 0.815244
+mean loss: 4.817455
+ ---- batch: 500 ----
+mean acc: 0.813579
+mean loss: 4.400074
+ ---- batch: 510 ----
+mean acc: 0.817617
+mean loss: 4.506442
+ ---- batch: 520 ----
+mean acc: 0.805639
+mean loss: 4.586197
+ ---- batch: 530 ----
+mean acc: 0.815059
+mean loss: 4.959948
+ ---- batch: 540 ----
+mean acc: 0.801661
+mean loss: 4.935309
+ ---- batch: 550 ----
+mean acc: 0.813455
+mean loss: 4.604166
+ ---- batch: 560 ----
+mean acc: 0.817945
+mean loss: 4.680392
+ ---- batch: 570 ----
+mean acc: 0.803799
+mean loss: 4.598691
+ ---- batch: 580 ----
+mean acc: 0.810892
+mean loss: 4.733952
+ ---- batch: 590 ----
+mean acc: 0.830465
+mean loss: 4.016904
+ ---- batch: 600 ----
+mean acc: 0.811729
+mean loss: 4.961072
+ ---- batch: 610 ----
+mean acc: 0.794713
+mean loss: 5.263913
+ ---- batch: 620 ----
+mean acc: 0.810790
+mean loss: 4.483761
+ ---- batch: 630 ----
+mean acc: 0.807606
+mean loss: 4.614809
+ ---- batch: 640 ----
+mean acc: 0.816188
+mean loss: 4.555194
+ ---- batch: 650 ----
+mean acc: 0.811975
+mean loss: 4.398509
+ ---- batch: 660 ----
+mean acc: 0.820083
+mean loss: 4.321178
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-08 15:58:49.160800
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-08 16:05:43.397103
+**** EPOCH 000 ****
+2023-03-08 16:07:03.892386
+**** EPOCH 000 ****
+2023-03-08 16:41:46.932068
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-08 20:00:50.106894
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-08 20:23:50.294733
+ ---- batch: 010 ----
+mean acc: 0.160594
+mean loss: 22.403417
+ ---- batch: 020 ----
+mean acc: 0.337528
+mean loss: 15.654026
+ ---- batch: 030 ----
+mean acc: 0.404006
+mean loss: 13.889482
+ ---- batch: 040 ----
+mean acc: 0.405694
+mean loss: 13.701370
+-> loaded checkpoint output/checkpoint.tar (epoch: 1)
+Let's use 2 GPUs!
+**** EPOCH 001 ****
+2023-03-08 20:31:28.340582
+ ---- batch: 010 ----
+mean acc: 0.771559
+mean loss: 5.476939
+ ---- batch: 020 ----
+mean acc: 0.768884
+mean loss: 5.420521
+ ---- batch: 030 ----
+mean acc: 0.779353
+mean loss: 5.477174
+ ---- batch: 040 ----
+mean acc: 0.789730
+mean loss: 5.491837
+ ---- batch: 050 ----
+mean acc: 0.777728
+mean loss: 5.613012
+ ---- batch: 060 ----
+mean acc: 0.785648
+mean loss: 5.167449
+ ---- batch: 070 ----
+mean acc: 0.786960
+mean loss: 5.500677
+ ---- batch: 080 ----
+mean acc: 0.790917
+mean loss: 5.225153
+ ---- batch: 090 ----
+mean acc: 0.801830
+mean loss: 5.325889
+ ---- batch: 100 ----
+mean acc: 0.795566
+mean loss: 5.043824
+ ---- batch: 110 ----
+mean acc: 0.792377
+mean loss: 5.573105
+ ---- batch: 120 ----
+mean acc: 0.780397
+mean loss: 5.158592
+ ---- batch: 130 ----
+mean acc: 0.799490
+mean loss: 4.925909
+ ---- batch: 140 ----
+mean acc: 0.807018
+mean loss: 4.990409
+ ---- batch: 150 ----
+mean acc: 0.798826
+mean loss: 4.910726
+ ---- batch: 160 ----
+mean acc: 0.806008
+mean loss: 4.801844
+ ---- batch: 170 ----
+mean acc: 0.805099
+mean loss: 5.054676
+-> loaded checkpoint output/checkpoint.tar (epoch: 1)
+Let's use 2 GPUs!
+**** EPOCH 001 ****
+2023-03-08 21:24:09.717955
+ ---- batch: 010 ----
+mean acc: 0.765332
+mean loss: 5.692842
+ ---- batch: 020 ----
+mean acc: 0.778722
+mean loss: 5.664187
+ ---- batch: 030 ----
+mean acc: 0.790792
+mean loss: 5.238400
+-> loaded checkpoint output/checkpoint.tar (epoch: 1)
+Let's use 2 GPUs!
+**** EPOCH 001 ****
+2023-03-08 21:26:30.324571
+ ---- batch: 010 ----
+mean acc: 0.779885
+mean loss: 5.224004
+ ---- batch: 020 ----
+mean acc: 0.776888
+mean loss: 5.449050
+ ---- batch: 030 ----
+mean acc: 0.779845
+mean loss: 5.374567
+ ---- batch: 040 ----
+mean acc: 0.790959
+mean loss: 5.297495
+ ---- batch: 050 ----
+mean acc: 0.793174
+mean loss: 4.886485
+ ---- batch: 060 ----
+mean acc: 0.777937
+mean loss: 5.480757
+ ---- batch: 070 ----
+mean acc: 0.796260
+mean loss: 4.912309
+ ---- batch: 080 ----
+mean acc: 0.811279
+mean loss: 4.578669
+ ---- batch: 090 ----
+mean acc: 0.772515
+mean loss: 5.708823
+ ---- batch: 100 ----
+mean acc: 0.777521
+mean loss: 5.435616
+mean IoU:33.1
+IoU:76.72  0.00  0.14 21.40 10.44  0.20  2.57  0.04 82.05 34.18 64.45 18.69 74.18 45.26 66.33 39.04 57.10 33.84  2.02 
+**** EPOCH 002 ****
+2023-03-08 21:28:11.269269
+ ---- batch: 010 ----
+mean acc: 0.788781
+mean loss: 4.893709
+ ---- batch: 020 ----
+mean acc: 0.798315
+mean loss: 4.765948
+ ---- batch: 030 ----
+mean acc: 0.801501
+mean loss: 5.042749
+ ---- batch: 040 ----
+mean acc: 0.800924
+mean loss: 5.087484
+ ---- batch: 050 ----
+mean acc: 0.797999
+mean loss: 4.899557
+ ---- batch: 060 ----
+mean acc: 0.801012
+mean loss: 4.937392
+ ---- batch: 070 ----
+mean acc: 0.805373
+mean loss: 4.952405
+ ---- batch: 080 ----
+mean acc: 0.800759
+mean loss: 4.784903
+ ---- batch: 090 ----
+mean acc: 0.798191
+mean loss: 5.368861
+ ---- batch: 100 ----
+mean acc: 0.798856
+mean loss: 4.463011
+mean IoU:34.3
+IoU:77.68  0.00  0.20 16.11  7.97  0.52 10.24  0.24 82.90 36.07 66.25 25.84 75.78 48.51 67.94 38.25 59.72 33.37  4.81 
+**** EPOCH 003 ****
+2023-03-08 21:29:52.594101
+ ---- batch: 010 ----
+mean acc: 0.809411
+mean loss: 4.435512
+ ---- batch: 020 ----
+mean acc: 0.807039
+mean loss: 5.108291
+ ---- batch: 030 ----
+mean acc: 0.793801
+mean loss: 4.760449
+ ---- batch: 040 ----
+mean acc: 0.812796
+mean loss: 4.372193
+ ---- batch: 050 ----
+mean acc: 0.815678
+mean loss: 4.725128
+ ---- batch: 060 ----
+mean acc: 0.799830
+mean loss: 4.804160
+ ---- batch: 070 ----
+mean acc: 0.802323
+mean loss: 4.954195
+ ---- batch: 080 ----
+mean acc: 0.797476
+mean loss: 4.776265
+ ---- batch: 090 ----
+mean acc: 0.811382
+mean loss: 4.901933
+ ---- batch: 100 ----
+mean acc: 0.814653
+mean loss: 4.724392
+mean IoU:35.8
+IoU:78.31  0.00  1.49 23.22  7.98  0.94 12.33  0.78 83.80 35.55 67.72 25.60 77.23 48.82 68.49 40.11 61.15 35.50 10.43 
+**** EPOCH 004 ****
+2023-03-08 21:31:33.951658
+ ---- batch: 010 ----
+mean acc: 0.810595
+mean loss: 4.760225
+ ---- batch: 020 ----
+mean acc: 0.796216
+mean loss: 4.980349
+ ---- batch: 030 ----
+mean acc: 0.815851
+mean loss: 4.456657
+ ---- batch: 040 ----
+mean acc: 0.816169
+mean loss: 4.625400
+ ---- batch: 050 ----
+mean acc: 0.811059
+mean loss: 4.651699
+ ---- batch: 060 ----
+mean acc: 0.825938
+mean loss: 4.320172
+ ---- batch: 070 ----
+mean acc: 0.817664
+mean loss: 4.615557
+ ---- batch: 080 ----
+mean acc: 0.803316
+mean loss: 4.668827
+ ---- batch: 090 ----
+mean acc: 0.814436
+mean loss: 4.641909
+ ---- batch: 100 ----
+mean acc: 0.806604
+mean loss: 4.647838
+mean IoU:36.1
+IoU:79.05  0.00  7.65 16.76 14.69  2.77  2.19  3.94 84.39 36.83 68.34 22.17 78.16 49.51 69.66 42.26 61.70 35.76  9.69 
+**** EPOCH 005 ****
+2023-03-08 21:33:16.923811
+ ---- batch: 010 ----
+mean acc: 0.806580
+mean loss: 4.949176
+ ---- batch: 020 ----
+mean acc: 0.800557
+mean loss: 4.722019
+ ---- batch: 030 ----
+mean acc: 0.810204
+mean loss: 4.789039
+ ---- batch: 040 ----
+mean acc: 0.807722
+mean loss: 4.567895
+ ---- batch: 050 ----
+mean acc: 0.811242
+mean loss: 4.681240
+ ---- batch: 060 ----
+mean acc: 0.817967
+mean loss: 4.388995
+ ---- batch: 070 ----
+mean acc: 0.817694
+mean loss: 4.456292
+ ---- batch: 080 ----
+mean acc: 0.815729
+mean loss: 4.507248
+ ---- batch: 090 ----
+mean acc: 0.822961
+mean loss: 4.550706
+ ---- batch: 100 ----
+mean acc: 0.815641
+mean loss: 4.455845
+mean IoU:36.8
+IoU:80.40  0.00  5.47 28.32  9.81  2.15  8.41  1.15 84.82 38.96 69.05 22.65 78.70 48.68 69.32 41.51 60.57 35.16 14.05 
+**** EPOCH 006 ****
+2023-03-08 21:35:00.232331
+ ---- batch: 010 ----
+mean acc: 0.818621
+mean loss: 4.587925
+ ---- batch: 020 ----
+mean acc: 0.807250
+mean loss: 4.708204
+ ---- batch: 030 ----
+mean acc: 0.825474
+mean loss: 4.326111
+ ---- batch: 040 ----
+mean acc: 0.816346
+mean loss: 4.336635
+ ---- batch: 050 ----
+mean acc: 0.823981
+mean loss: 4.403328
+ ---- batch: 060 ----
+mean acc: 0.821729
+mean loss: 4.603810
+ ---- batch: 070 ----
+mean acc: 0.828436
+mean loss: 4.139086
+ ---- batch: 080 ----
+mean acc: 0.819399
+mean loss: 4.366470
+ ---- batch: 090 ----
+mean acc: 0.822739
+mean loss: 4.615589
+ ---- batch: 100 ----
+mean acc: 0.809333
+mean loss: 4.822355
+mean IoU:37.5
+IoU:79.23  0.00  6.59 26.53  8.88  3.74 12.77  1.58 85.14 39.34 69.48 23.31 79.25 49.41 71.16 43.43 62.41 36.85 12.97 
+**** EPOCH 007 ****
+2023-03-08 21:36:43.972694
+ ---- batch: 010 ----
+mean acc: 0.809052
+mean loss: 4.642373
+ ---- batch: 020 ----
+mean acc: 0.813815
+mean loss: 4.721040
+ ---- batch: 030 ----
+mean acc: 0.826637
+mean loss: 4.214497
+ ---- batch: 040 ----
+mean acc: 0.818735
+mean loss: 4.670872

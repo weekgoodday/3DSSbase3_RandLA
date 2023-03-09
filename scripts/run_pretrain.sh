@@ -1,0 +1,1 @@
+python main_SemanticKITTI.py --checkpoint_path "output/checkpoint.tar" --max_epoch 100
