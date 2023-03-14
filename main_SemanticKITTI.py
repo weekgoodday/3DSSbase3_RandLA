@@ -13,13 +13,14 @@ from datetime import datetime
 import warnings
  
 warnings.filterwarnings("ignore")
-
-wandb.init(project="RandLA",name="train")
-wandb_log={}
+wandb_open=False
+if(wandb_open):
+    wandb.init(project="RandLA",name="train")
+    wandb_log={}
 parser = argparse.ArgumentParser()
 parser.add_argument('--checkpoint_path', help='Model checkpoint path [default: None]')
 parser.add_argument('--log_dir', default='output', help='Dump dir to save model checkpoint [default: log]')
-parser.add_argument('--max_epoch', type=int, default=400, help='Epoch to run [default: 180]')
+parser.add_argument('--max_epoch', type=int, default=100, help='Epoch to run [default: 180]')
 parser.add_argument('--batch_size', type=int, default=20, help='Batch Size during training [default: 8]')
 FLAGS = parser.parse_args()
 
@@ -56,7 +57,8 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 net = Network(cfg)
 net.to(device)
-wandb.watch(net)
+if(wandb_open):
+    wandb.watch(net)
 # Load the Adam optimizer
 optimizer = optim.Adam(net.parameters(), lr=cfg.learning_rate)
 
@@ -138,10 +140,11 @@ def train_one_epoch():
     for iou_tmp in iou_list:
         s += '{:5.2f} '.format(100 * iou_tmp)
     log_string(s)
-    wandb_log['IoU']=mean_iou
-    wandb_log['acc']=total_acc
-    wandb_log['loss']=total_loss
-    wandb.log(wandb_log)
+    if(wandb_open):
+        wandb_log['IoU']=mean_iou
+        wandb_log['acc']=total_acc
+        wandb_log['loss']=total_loss
+        wandb.log(wandb_log)
 
 def evaluate_one_epoch():
     stat_dict = {} # collect statistics

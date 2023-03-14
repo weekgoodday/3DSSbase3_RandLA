@@ -900,3 +900,30 @@ mean loss: 4.214497
  ---- batch: 040 ----
 mean acc: 0.818735
 mean loss: 4.670872
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-14 12:37:25.399007
+ ---- batch: 010 ----
+mean acc: 0.189366
+mean loss: 21.382898
+ ---- batch: 020 ----
+mean acc: 0.322803
+mean loss: 16.343496
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-14 12:55:13.388323
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-14 13:01:17.485991
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-14 13:01:47.730570
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-14 14:06:03.334562
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-14 14:06:48.596413
+Let's use 2 GPUs!
+**** EPOCH 000 ****
+2023-03-14 14:21:49.296427
